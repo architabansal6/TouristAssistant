@@ -590,7 +590,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.finalProject.me;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/Swasidhant/Downloads/MapViewNearBy/MapView/DemoSecondScreen-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "MapView/DemoSecondScreen-Bridging-Header.h";
 			};
 			name = Debug;
 		};
@@ -607,7 +607,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.finalProject.me;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/Swasidhant/Downloads/MapViewNearBy/MapView/DemoSecondScreen-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "MapView/DemoSecondScreen-Bridging-Header.h";
 			};
 			name = Release;
 		};
